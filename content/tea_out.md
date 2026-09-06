@@ -1,5 +1,5 @@
 +++
-title = "// Teaching & Outreach //"
+title = "| Teaching & Outreach |"
 menu = "main"
 weight = 30
 +++
