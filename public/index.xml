@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>// Home // on Siobhan Clemente, PhD</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content in // Home // on Siobhan Clemente, PhD</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+			<copyright>Copyright © 2026, SR Clemente.</copyright>
+		
+		
+			<lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>// Research &amp; Publications //</title>
+				<link>http://localhost:1313/01_res_pub/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/01_res_pub/</guid>
+				<description>&lt;h1&gt;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m interested in studying a lot! Please check back for more detail.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;in-review&#34;&gt;In review&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Clemente, S.R.&lt;/strong&gt;, Theis, N., and Adler, L.S. Intraspecific floral chemical variation in &lt;em&gt;Ocimum basilicum&lt;/em&gt; cultivars. In review at &lt;em&gt;Phytochemistry&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;published&#34;&gt;Published&lt;/h3&gt;&#xA;&lt;p&gt;Aguirre, L.A., Theis, N., Pak, J., Abbot, S., &lt;strong&gt;Clemente, S.R.&lt;/strong&gt;, and Adler, L.S. Effects of leaf herbivory on floral trait correlations and scent composition in &lt;em&gt;Asclepias syriaca.&lt;/em&gt; (2025). Journal of Chemical Ecology, 51(103). DOI: &lt;a href=&#34;https://doi.org/10.1007/s10886-025-01654-7&#34;&gt;10.1007/s10886-025-01654-7&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>// Teaching &amp; Outreach //</title>
+				<link>http://localhost:1313/02_tea_out/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/02_tea_out/</guid>
+				<description>&lt;h1&gt;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;outreach&#34;&gt;Outreach&lt;/h2&gt;</description>
+			</item>
+			<item>
+				<title>Demo Post</title>
+				<link>http://localhost:1313/demo-post/</link>
+				<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/demo-post/</guid>
+				<description>&lt;p&gt;What can I say, I&amp;rsquo;m a demo :)&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
