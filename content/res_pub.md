@@ -1,5 +1,5 @@
 +++
-title = "// Research & Publications //"
+title = "| Research & Publications |"
 menu = "main"
 weight = 20 # increase to change order 
 +++
