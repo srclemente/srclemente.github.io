@@ -8,9 +8,12 @@ weight = 1
 ---
 ## Hello, I'm Siobhan!
 
-I'm currently an NSF Postdoctoral Fellow in Biology based in Virginia Tech and the University of Massachusetts Amherst. However, I find that I am just as excited to engage with science  through education and science communication! In my career as a scientist, I am honored to have had the opportunity to engage with a wide variety of audiences, whether it is from the front of a classroom or from within a tent at a county fair. 
+I'm currently an NSF Postdoctoral Research Fellow in Biology based in Virginia Tech and the University of Massachusetts Amherst. However, I find that I am just as excited to engage with science through education and science communication! 
 
 Thanks for visiting my website, and enjoy your stay!
+
+**[As of 7 Sept 2026, 09:30 JST]**
+The *Teaching and Outreach* pages are currently under maintenance until 18:00 JST. Thanks for your patience, and please check back later for more updates.
 
 ---
 ## Recent News
