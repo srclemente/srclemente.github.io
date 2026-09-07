@@ -18,7 +18,7 @@ Artificial selection of crop plants drastically alters plant traits from their a
 Artificial selection results in altered floral traits in crops , and I am interested in how dynamics between crops and their pollinators or dispersers are further altered. As a doctoral student at UMass Amherst, I took advantage of inter-cultivar chemical diversity in basil to run experiments in pollinator self-medication, where parasitized bumble bees change their foraging behavior to feed  selectively on plants with higher expression of anti-parasitic compounds.
 
 ## Mentorship
-It takes a village to raise a research paper. My work would not be possible without the help of these stellar undergraduate researchers.
+***It takes a village to raise a research paper. My work would not be possible without the help of these stellar undergraduate researchers.***
 
 **Reese Baxter** - Univ. of Mass. Amherst ('25). Reese led an independent study examining the antiparasitic activity of nectar terpenoids at field-realistic concentrations. Reese presented this work as a poster presentation at the 2025 Massachusetts Undergrad Research Conference (Mass URC) and is currently writing a first-authored manuscript sharing her results. 
 
@@ -28,10 +28,10 @@ It takes a village to raise a research paper. My work would not be possible with
 
 I also would like to thank the stalwart field assistants who made grueling field and greenhouse work in summer heat (almost) pleasurable with their determination and camaraderie:
 
-Willa Rudel (Mt. Holyoke '25)
-Grey Fiermonte (Eureka! Girls, Inc. of the Valley)
-Jess Moskowitz (Mt. Holyoke '23)
-Nick Duncan (UMass Amherst '22)
+* Willa Rudel (Mt. Holyoke '25)
+* Grey Fiermonte (Eureka! Girls, Inc. of the Valley)
+* Jess Moskowitz (Mt. Holyoke '23)
+* Nick Duncan (UMass Amherst '22)
 ---
 
 ## Publications
