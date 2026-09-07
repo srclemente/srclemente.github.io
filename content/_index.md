@@ -8,12 +8,12 @@ weight = 1
 ---
 ## Hello, I'm Siobhan!
 
-I'm currently an NSF Postdoctoral Research Fellow in Biology based in Virginia Tech and the University of Massachusetts Amherst. However, I find that I am just as excited to engage with science through education and science communication! 
+I'm currently an NSF Postdoctoral Research Fellow in Biology based in Virginia Tech and the University of Massachusetts Amherst. I'm a chemical ecologist interested in how floral and fruit chemistry mediate interactions between plants, pollinators, and seed dispersers – all in the context of human processes such as domestication, agricultural intensification, and biodiversity loss. However, I find that I am just as successful as a scientist when I engage with my work through teaching and science communication! I hope that the materials in this website reflect my excitement for both research and education.
 
 Thanks for visiting my website, and enjoy your stay!
 
 **[As of 7 Sept 2026, 09:30 JST]**
-The *Teaching and Outreach* pages are currently under maintenance until 18:00 JST. Thanks for your patience, and please check back later for more updates.
+The *Teaching and Outreach* pages are currently under maintenance until 23:00 JST. Thanks for your patience, and please check back later for more updates.
 
 ---
 ## Recent News
