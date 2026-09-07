@@ -6,15 +6,15 @@ weight = 20 # increase to change order
 #
 ---
 ## Research Interests
-My research explores the intersection of the chemistry of plant rewards *(e.g., nectar and pollen)* and the behavior of animal mutualists *(e.g., birds and bees)*. I explore these themes through a synthesis of field & greenhouse experiments, chemical instrumentation, and statistical modeling. Here are my current research interests.
+My research explores the intersection of the chemistry of plant rewards *(e.g., nectar and pollen)* and the behavior of animal mutualists *(e.g., birds and bees)*. I explore these themes through a synthesis of field & greenhouse experiments, chemical instrumentation, and statistical modeling. These are the topics currently keep me up at night:
 
-### Biodiversity loss & fruit traits
+### Biodiversity Loss & Fruit Traits
 The Anthropocene has seen unprecedented drops in avian biodiversity, and plant species that rely on frugivorous birds to disperse their seeds can be vulnerable to further declines. How do animal disperser-dependent, fruiting plants respond to the loss or declines of their dispersers? For instance, can they adapt their fruit traits to make themselves more (or less) attractive to a shrinking pool of dispersers? As a postdoc at the Rogers Lab Virginia Tech, I explore this question with the model system *Capsicum frutescens*, 1) comparing fruit traits of wild plants in the Marianas archipelago, where seed disperser availability is vastly different between islands, 2) observing fruit trait responses to varying fruit removal regimes in greenhouse experiments, and 3) examining genetic and epi-genetic variation between plants experiencing different fruit removal pressures. 
 
-### Domestication & Floral chemical traits
+### Domestication & Floral Chemical Traits
 Artificial selection of crop plants drastically alters plant traits from their ancestral state, and for crops where the fruit or flower is the harvested organ, floral traits are strongly selected for flavor and palatability. Such selection is typically driven by changes in chemical traits, and I am interested in how selection has altered crop floral chemistry from their wild type state and between cultivars. As a doctoral student in the Adler Lab at UMass Amherst, I explored how inter-cultivar chemical variation in blueberry (*Vaccinium* spp.) fruits and flowers affected cultivars' susceptibility to a pollinator-vectored pathogen. My thesis work centered on basil (*Ocimum basilicum*), which, while selected for chemical variation in leaves, expresses inter-cultivar floral chemistry as a consequence.
 
-### Domestication & crop-mutualist interactions
+### Domestication & Crop-Mutualist Interactions
 Artificial selection results in altered floral traits in crops , and I am interested in how dynamics between crops and their pollinators or dispersers are further altered. As a doctoral student at UMass Amherst, I took advantage of inter-cultivar chemical diversity in basil to run experiments in pollinator self-medication, where parasitized bumble bees change their foraging behavior to feed  selectively on plants with higher expression of anti-parasitic compounds.
 
 ## Mentorship
