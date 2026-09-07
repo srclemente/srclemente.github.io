@@ -26,7 +26,7 @@ Artificial selection results in altered floral traits in crops , and I am intere
 
 **Liz Sykes** - Univ of Mass. Amherst ('22). Liz piloted bumble bee diet experiments testing the efficacy of floral volatile compounds on *Crithidia bombi*. She now works as an Animal Care Manager for rescue farm animals for the nonprofit Unity Farm Sanctuary!
 
-I also would like to thank the stalwart field assistants who made grueling field and greenhouse work in summer heat (almost) pleasurable with their determination and camaraderie:
+***I also would like to thank the stalwart field assistants who made grueling field and greenhouse work in summer heat (almost) pleasurable with their determination and camaraderie:***
 
 * Willa Rudel (Mt. Holyoke '25)
 * Grey Fiermonte (Eureka! Girls, Inc. of the Valley)
