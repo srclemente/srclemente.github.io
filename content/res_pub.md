@@ -7,7 +7,7 @@ weight = 20 # increase to change order
 ---
 ## Research Interests
 
-I'm interested in studying a lot! Please check back for more detail.
+My research explores the intersection of the chemistry of plant rewards *(e.g., nectar and pollen)* and the behavior of animal mutualists *(e.g., birds and bees)*. I explore these themes through a synthesis of field, greenhouse, chemical instrumentation, and modeling approaches.
 
 ---
 ## Publications
