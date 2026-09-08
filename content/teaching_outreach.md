@@ -24,7 +24,7 @@ I am passionate about teaching and have taken every opportunity to balance scien
 
 * BIO 550 Final Projects // As the lab instructor for an advanced animal behavior course, I was tasked to walk students through a final project where they designed their own manipulative experiments or observations of lab-reared or wild animals. The project was an involved process where groups met one-on-one with me to develop a project design, experimental workflow, and statistical approach.
 
-Below, I include exemplary student final projects, ensuring that I cover a breadth of work that best represents the general student experience. I try to include projects that  represent statistically and non-statistically significant results, wild and lab-reared animal subjects, and experiences where students crafted their own project from scratch or adapted an aspect of their concurrent extracurricular research. 
+ Below, I include exemplary student final projects, ensuring that I cover a breadth of work that best represents the general student experience. I try to include projects that  represent statistically and non-statistically significant results, wild and lab-reared animal subjects, and experiences where students crafted their own project from scratch or adapted an aspect of their concurrent extracurricular research. 
 
   * [Canada Geese Vocalizations](../files/dnjmvz.pdf)
   * [Chipping Sparrow Migration](../files/mbcs.pdf)
