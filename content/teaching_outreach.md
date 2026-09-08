@@ -24,7 +24,7 @@ I am passionate about teaching and have taken every opportunity to balance scien
 
 * ***BIO 550 Final Projects*** // As the lab instructor for an advanced animal behavior course, I was tasked to walk students through a final project where they designed their own manipulative experiments or observations of lab-reared or wild animals. The project was an involved process where groups met one-on-one with me to develop a project design, experimental workflow, and statistical approach.
 
- Below, I include exemplary student final projects, ensuring that I cover a breadth of work that best represents the general student experience. I try to include projects that  represent statistically and non-statistically significant results, wild and lab-reared animal subjects, and experiences where students crafted their own project from scratch or adapted an aspect of their concurrent extracurricular research. 
+  Below, I include exemplary student final projects, ensuring that I cover a breadth of work that best represents the general student experience. I try to include projects that  represent statistically and non-statistically significant results, wild and lab-reared animal subjects, and experiences where students crafted their own project from scratch or adapted an aspect of their concurrent extracurricular research. 
 
   * [Canada Geese Vocalizations](../files/dnjmvz.pdf)
   * [Chipping Sparrow Migration](../files/mbcs.pdf)
@@ -33,6 +33,7 @@ I am passionate about teaching and have taken every opportunity to balance scien
   * [Cellar Spiders and Vibrations](../files/aljfwn.pdf)
 
 ---
+
 ## Outreach and Science Communication 
 I believe that community outreach is an essential part of making my research accessible. In my career as a scientist, I am honored to have had the opportunity to engage with a wide variety of audiences, whether it is from the front of classroom or from within a tent at a county fair.
 
@@ -45,3 +46,6 @@ I believe that community outreach is an essential part of making my research acc
 * **Science Cafe** // From 2020-2023, I was part of the organizing team for Science Cafe (now [Science Stories](https://sci-stories.org/)), an outreach organization that organized interview-style talks between faculty for the general public. I was the host of [one such Science Cafe interview with fellow chemical ecologist Dr. Sibongile Mafu](https://sci-stories.org/dr-sibongile-mafu/)!  
 
 * **3-Minute Thesis Competition** // I was a finalist in the annual UMass Amherst 3-Minute Thesis in 2022 and 2024. As with other 3MT competitions held in academic instutions around the world, participants are asked to summarize their thesis work in under three minutes for a general audience. You can watch [my 2022 talk](https://youtu.be/9nmXPJibK9A) or my [2024 talk, which won 2nd Place and the People's Choice Award!](https://youtu.be/QcWqF-ujDEY?si=q9TnNmmFh16RqjSZ)
+
+---
+![iloveyousomuchcharlie](images/favicon.png)
