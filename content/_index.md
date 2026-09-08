@@ -28,3 +28,6 @@ Thanks for visiting my website, and enjoy your stay!
 [my CV!](files/sc_cv_08_20_26.pdf)
 
 [my Github!](https://github.com/srclemente) 
+
+---
+![ilycharlie](images/favicon.png)
