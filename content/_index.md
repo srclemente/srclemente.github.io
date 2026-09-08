@@ -12,9 +12,6 @@ I'm currently an NSF Postdoctoral Research Fellow in Biology based in Virginia T
 
 Thanks for visiting my website, and enjoy your stay!
 
-**[As of 7 Sept 2026, 09:30 JST]**
-The *Teaching and Outreach* pages are currently under maintenance until 23:00 JST. Thanks for your patience, and please check back later for more updates.
-
 ---
 ## Recent News
 
