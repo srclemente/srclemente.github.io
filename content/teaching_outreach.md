@@ -6,7 +6,7 @@ weight = 30
 #
 ---
 ## Teaching 
-I am passionate about teaching and have taken every opportunity to balance science education with the research responsibilities of my doctoral thesis and postdoc. I'm happy to have had several chances to teach in the college classroom, from undergraduate freshmen in first-year seminars to running the labs of a graduate-level animal behavior course. Below, you can find selections of lectures, activities, notes, and some exemplary student work from the courses I've taught.
+I am passionate about teaching and have taken every opportunity to balance science education with the research responsibilities of my doctoral thesis and postdoc. I'm happy to have had several chances to teach in the college classroom, from undergraduate freshmen in first-year seminars to final-semester students in the labs of a graduate-level animal behavior course. Below, you can find selections of lectures, activities, notes, and some exemplary student work from the courses I've taught.
 
 * [FYS 191 Syllabus](../files/fys_191_fa23_syllabus.pdf) // A syllabus crafted for a first-year seminar, following principles of inclusive course design & syllabus writing.
 
