@@ -54,4 +54,4 @@ Marutani, M. and **Clemente, S.R.** Compost-based growing media improved yield o
 **Clemente, S.R.** and Whitehead, S.R. Ant seed removal in a non-myrmecochorus Neotropical shrub: Implications for seed dispersal (2019). Biotropica, 52(1):90-100. DOI: [10.1111/btp.12728](https://doi.org/10.1111/btp.12728)
 
 ---
-![iloveyousomuchcharlie](images/favicon.png)
+![iloveyousomuchcharlie](../images/favicon.png)
