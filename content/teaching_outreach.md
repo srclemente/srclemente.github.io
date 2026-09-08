@@ -48,4 +48,4 @@ I believe that community outreach is an essential part of making my research acc
 * **3-Minute Thesis Competition** // I was a finalist in the annual UMass Amherst 3-Minute Thesis in 2022 and 2024. As with other 3MT competitions held in academic instutions around the world, participants are asked to summarize their thesis work in under three minutes for a general audience. You can watch [my 2022 talk](https://youtu.be/9nmXPJibK9A) or my [2024 talk, which won 2nd Place and the People's Choice Award!](https://youtu.be/QcWqF-ujDEY?si=q9TnNmmFh16RqjSZ)
 
 ---
-![iloveyousomuchcharlie](images/favicon.png)
+![iloveyousomuchcharlie](../images/favicon.png)
