@@ -17,6 +17,8 @@ Artificial selection of crop plants drastically alters plant traits from their a
 ### Domestication & Crop-Mutualist Interactions
 Artificial selection results in altered floral traits in crops and I am interested in how dynamics between crops and their pollinators or dispersers are further altered. As a doctoral student at UMass Amherst, I took advantage of inter-cultivar chemical diversity in basil to run experiments in pollinator self-medication, where parasitized bumble bees change their foraging behavior to feed  selectively on plants with higher expression of anti-parasitic compounds.
 
+---
+
 ## Mentorship
 ***It takes a village to raise a research paper. My work would not be possible without the help of these stellar undergraduate researchers.***
 
@@ -32,6 +34,7 @@ Artificial selection results in altered floral traits in crops and I am interest
 * Grey Fiermonte (Eureka! Girls, Inc. of the Valley)
 * Jess Moskowitz (Mt. Holyoke '23)
 * Nick Duncan (UMass Amherst '22)
+
 ---
 
 ## Publications
@@ -51,3 +54,4 @@ Marutani, M. and **Clemente, S.R.** Compost-based growing media improved yield o
 **Clemente, S.R.** and Whitehead, S.R. Ant seed removal in a non-myrmecochorus Neotropical shrub: Implications for seed dispersal (2019). Biotropica, 52(1):90-100. DOI: [10.1111/btp.12728](https://doi.org/10.1111/btp.12728)
 
 ---
+![iloveyousomuchcharlie](images/favicon.png)
