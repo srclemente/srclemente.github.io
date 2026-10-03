@@ -1,10 +1,13 @@
 +++
-title = "| Research & Publications |"
+title = "| Research & Mentorship |"
 menu = "main"
 weight = 20 # increase to change order 
 +++
 #
 ---
+## Research & Mentorship 
+---
+
 ## Research Interests
 My research explores the intersection of the chemistry of plant rewards *(e.g., nectar and pollen)* and the behavior of animal mutualists *(e.g., birds and bees)*. I explore these themes through a synthesis of field & greenhouse experiments, chemical instrumentation, and statistical modeling. These are the topics currently keep me up at night:
 
@@ -54,4 +57,4 @@ Marutani, M. and **Clemente, S.R.** Compost-based growing media improved yield o
 **Clemente, S.R.** and Whitehead, S.R. Ant seed removal in a non-myrmecochorus Neotropical shrub: Implications for seed dispersal (2019). Biotropica, 52(1):90-100. DOI: [10.1111/btp.12728](https://doi.org/10.1111/btp.12728)
 
 ---
-![iloveyousomuchcharlie](../images/favicon.png)
+![ilypookie](../images/favicon.png)
