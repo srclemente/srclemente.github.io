@@ -8,7 +8,7 @@ weight = 1
 ---
 ## Hello, I'm Siobhan!
 
-I'm currently an NSF Postdoctoral Research Fellow in Biology based in Virginia Tech and the University of Massachusetts Amherst. I'm a chemical ecologist interested in how floral and fruit chemistry mediate interactions between plants, pollinators, and seed dispersers – all in the context of human processes such as domestication, agricultural intensification, and biodiversity loss. However, I find that I am just as successful as a scientist when I engage with my work through teaching and science communication! I hope that the materials in this website reflect my excitement for both research and education.
+I'm a chemical ecologist interested in how floral and fruit chemistry mediate interactions between plants, pollinators, and seed dispersers – all in the context of human processes such as domestication, agricultural intensification, and biodiversity loss. However, I find that I am just as successful as a scientist when I engage with my work through teaching and science communication! I hope that the materials in this website reflect my excitement for both research and education.
 
 Thanks for visiting my website, and enjoy your stay!
 
@@ -24,10 +24,10 @@ Thanks for visiting my website, and enjoy your stay!
 // **2025-08-01** // Excited to officially start my postdoc with Dr. Haldre Rogers and the rest of the [Ecology of Bird Loss Lab](https://haldre.org) at Virginia Tech. 
 
 ---
-## Get to know more about me with...
+## Let's connect! Here's...
 [my CV!](files/sc_cv_08_20_26.pdf)
 
 [my Github!](https://github.com/srclemente) 
 
 ---
-![ilycharlie](images/favicon.png)
+![ilypookie](images/favicon.png)
