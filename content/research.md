@@ -1,5 +1,5 @@
 +++
-title = "| Research & Mentorship |"
+title = "Research & Mentorship"
 menu = "main"
 weight = 20 # increase to change order 
 +++
