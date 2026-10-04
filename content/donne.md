@@ -1,5 +1,5 @@
 +++
-title = "| Donne' Såli Project |"
+title = "Donne' Såli Project"
 menu = "main"
 weight = 40
 +++
