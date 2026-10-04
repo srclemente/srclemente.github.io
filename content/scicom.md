@@ -1,5 +1,5 @@
 +++
-title = "| Teaching & Engagement |"
+title = "Teaching & Engagement"
 menu = "main"
 weight = 30
 +++
